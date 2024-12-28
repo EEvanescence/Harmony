@@ -34,7 +34,7 @@
         foreach ($getListIpv4['info'] as $key => $l) {
             $ipv4 = array_merge($ipv4, $l);
         }
-        file_put_contents("list/ipv4.json", json_encode(array_slice($ipv4, 0, 25), JSON_PRETTY_PRINT));
+        file_put_contents("ips/ipv4.json", json_encode(array_slice($ipv4, 0, 25), JSON_PRETTY_PRINT));
     }
 
     $getListIpv6 = get_optimization_ip('v6');
@@ -44,12 +44,12 @@
         foreach ($getListIpv6['info'] as $key => $l) {
             $ipv6 = array_merge($ipv6, $l);
         }
-        file_put_contents("list/ipv6.json", json_encode(array_slice($ipv6, 0, 25), JSON_PRETTY_PRINT));
+        file_put_contents("ips/ipv6.json", json_encode(array_slice($ipv6, 0, 25), JSON_PRETTY_PRINT));
     }
 
     $ips = [];
     if ( !empty($ipv4) && !empty($ipv6) ) {
         $ips['ipv4'] = $ipv4;
         $ips['ipv6'] = $ipv6;
-        file_put_contents("list/export.json", json_encode(array_slice($ips, 0, 25), JSON_PRETTY_PRINT));
+        file_put_contents("ips/export.json", json_encode(array_slice($ips, 0, 25), JSON_PRETTY_PRINT));
     }
