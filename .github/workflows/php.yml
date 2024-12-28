@@ -27,7 +27,7 @@ jobs:
           php-version: '8.0'
 
       - name: Execute PHP script
-        run: php src/crawler.php
+        run: php crawler.php
 
       - name: Configure Git
         run: |
