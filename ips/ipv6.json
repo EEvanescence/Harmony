@@ -1,152 +1,152 @@
 [
     {
         "colo": "Default",
-        "ip": "2606:4700:d0:a8f2:a076:476f:87a4:9081",
-        "latency": 1,
+        "ip": "2606:4700:8ca7:faf:fbb0:9f1:d1e1:a9b6",
+        "latency": 20,
         "line": "CM",
         "loss": 0,
         "node": "WEBH",
         "speed": 309,
-        "time": "2024-12-28 07:04:51"
+        "time": "2024-12-28 07:14:47"
     },
     {
         "colo": "Default",
-        "ip": "2606:4700:3003:83b9:be59:f4c0:eefc:4da9",
-        "latency": 1,
-        "line": "CM",
-        "loss": 0,
-        "node": "WEBH",
-        "speed": 309,
-        "time": "2024-12-28 07:04:49"
-    },
-    {
-        "colo": "Default",
-        "ip": "2606:4700:3003:796:4372:b1d5:503b:36be",
-        "latency": 1,
-        "line": "CM",
-        "loss": 0,
-        "node": "WEBH",
-        "speed": 308,
-        "time": "2024-12-28 07:04:50"
-    },
-    {
-        "colo": "Default",
-        "ip": "2606:4700:d0:53f8:e10:74c6:1a52:2642",
-        "latency": 1,
+        "ip": "2606:4700:8ca7:dff7:a00f:428e:9438:21d6",
+        "latency": 20,
         "line": "CM",
         "loss": 0,
         "node": "WEBH",
         "speed": 307,
-        "time": "2024-12-28 07:04:49"
+        "time": "2024-12-28 07:14:47"
     },
     {
         "colo": "Default",
-        "ip": "2606:4700:3003:857c:d209:5415:572f:553b",
-        "latency": 1,
+        "ip": "2606:4700:8ca7:aab9:b53c:9c8c:c579:ab79",
+        "latency": 20,
         "line": "CM",
         "loss": 0,
         "node": "WEBH",
         "speed": 307,
-        "time": "2024-12-28 07:04:48"
+        "time": "2024-12-28 07:14:47"
     },
     {
         "colo": "Default",
-        "ip": "2606:4700:d0:a8f2:a076:476f:87a4:9081",
-        "latency": 1,
+        "ip": "2606:4700:8ca7:3a74:6cda:17b0:2b0c:aebf",
+        "latency": 20,
+        "line": "CM",
+        "loss": 0,
+        "node": "WEBH",
+        "speed": 307,
+        "time": "2024-12-28 07:14:47"
+    },
+    {
+        "colo": "Default",
+        "ip": "2606:4700:8ca7:ccba:87b0:5872:3a2d:9ff1",
+        "latency": 22,
+        "line": "CM",
+        "loss": 0,
+        "node": "WEBH",
+        "speed": 307,
+        "time": "2024-12-28 07:14:47"
+    },
+    {
+        "colo": "Default",
+        "ip": "2606:4700:8ca7:faf:fbb0:9f1:d1e1:a9b6",
+        "latency": 20,
         "line": "CT",
         "loss": 0,
         "node": "WEBH",
         "speed": 309,
-        "time": "2024-12-28 07:04:51"
+        "time": "2024-12-28 07:14:47"
     },
     {
         "colo": "Default",
-        "ip": "2606:4700:3003:83b9:be59:f4c0:eefc:4da9",
-        "latency": 1,
-        "line": "CT",
-        "loss": 0,
-        "node": "WEBH",
-        "speed": 309,
-        "time": "2024-12-28 07:04:49"
-    },
-    {
-        "colo": "Default",
-        "ip": "2606:4700:3003:796:4372:b1d5:503b:36be",
-        "latency": 1,
-        "line": "CT",
-        "loss": 0,
-        "node": "WEBH",
-        "speed": 308,
-        "time": "2024-12-28 07:04:50"
-    },
-    {
-        "colo": "Default",
-        "ip": "2606:4700:d0:53f8:e10:74c6:1a52:2642",
-        "latency": 1,
+        "ip": "2606:4700:8ca7:dff7:a00f:428e:9438:21d6",
+        "latency": 20,
         "line": "CT",
         "loss": 0,
         "node": "WEBH",
         "speed": 307,
-        "time": "2024-12-28 07:04:49"
+        "time": "2024-12-28 07:14:47"
     },
     {
         "colo": "Default",
-        "ip": "2606:4700:3003:857c:d209:5415:572f:553b",
-        "latency": 1,
+        "ip": "2606:4700:8ca7:aab9:b53c:9c8c:c579:ab79",
+        "latency": 20,
         "line": "CT",
         "loss": 0,
         "node": "WEBH",
         "speed": 307,
-        "time": "2024-12-28 07:04:48"
+        "time": "2024-12-28 07:14:47"
     },
     {
         "colo": "Default",
-        "ip": "2606:4700:d0:a8f2:a076:476f:87a4:9081",
-        "latency": 1,
-        "line": "CU",
+        "ip": "2606:4700:8ca7:3a74:6cda:17b0:2b0c:aebf",
+        "latency": 20,
+        "line": "CT",
         "loss": 0,
         "node": "WEBH",
-        "speed": 309,
-        "time": "2024-12-28 07:04:51"
+        "speed": 307,
+        "time": "2024-12-28 07:14:47"
     },
     {
         "colo": "Default",
-        "ip": "2606:4700:3003:83b9:be59:f4c0:eefc:4da9",
-        "latency": 1,
+        "ip": "2606:4700:8ca7:ccba:87b0:5872:3a2d:9ff1",
+        "latency": 22,
+        "line": "CT",
+        "loss": 0,
+        "node": "WEBH",
+        "speed": 307,
+        "time": "2024-12-28 07:14:47"
+    },
+    {
+        "colo": "Default",
+        "ip": "2606:4700:8ca7:faf:fbb0:9f1:d1e1:a9b6",
+        "latency": 20,
         "line": "CU",
         "loss": 0,
         "node": "WEBH",
         "speed": 309,
-        "time": "2024-12-28 07:04:49"
+        "time": "2024-12-28 07:14:47"
     },
     {
         "colo": "Default",
-        "ip": "2606:4700:3003:796:4372:b1d5:503b:36be",
-        "latency": 1,
-        "line": "CU",
-        "loss": 0,
-        "node": "WEBH",
-        "speed": 308,
-        "time": "2024-12-28 07:04:50"
-    },
-    {
-        "colo": "Default",
-        "ip": "2606:4700:d0:53f8:e10:74c6:1a52:2642",
-        "latency": 1,
+        "ip": "2606:4700:8ca7:dff7:a00f:428e:9438:21d6",
+        "latency": 20,
         "line": "CU",
         "loss": 0,
         "node": "WEBH",
         "speed": 307,
-        "time": "2024-12-28 07:04:49"
+        "time": "2024-12-28 07:14:47"
     },
     {
         "colo": "Default",
-        "ip": "2606:4700:3003:857c:d209:5415:572f:553b",
-        "latency": 1,
+        "ip": "2606:4700:8ca7:aab9:b53c:9c8c:c579:ab79",
+        "latency": 20,
         "line": "CU",
         "loss": 0,
         "node": "WEBH",
         "speed": 307,
-        "time": "2024-12-28 07:04:48"
+        "time": "2024-12-28 07:14:47"
+    },
+    {
+        "colo": "Default",
+        "ip": "2606:4700:8ca7:3a74:6cda:17b0:2b0c:aebf",
+        "latency": 20,
+        "line": "CU",
+        "loss": 0,
+        "node": "WEBH",
+        "speed": 307,
+        "time": "2024-12-28 07:14:47"
+    },
+    {
+        "colo": "Default",
+        "ip": "2606:4700:8ca7:ccba:87b0:5872:3a2d:9ff1",
+        "latency": 22,
+        "line": "CU",
+        "loss": 0,
+        "node": "WEBH",
+        "speed": 307,
+        "time": "2024-12-28 07:14:47"
     }
 ]
