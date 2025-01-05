@@ -60,14 +60,34 @@
         "time": "2025-01-04 16:38:00"
     },
     {
-        "colo": "SJC",
-        "ip": "104.17.175.43",
-        "latency": 159,
+        "colo": "LHR",
+        "ip": "172.67.209.33",
+        "latency": 211,
         "line": "CT",
         "loss": 0,
-        "node": "QYZJBGP",
-        "speed": 310,
-        "time": "2025-01-04 16:25:27"
+        "node": "SDO_HBCT",
+        "speed": 770,
+        "time": "2025-01-04 16:40:07"
+    },
+    {
+        "colo": "SJC",
+        "ip": "172.64.206.250",
+        "latency": 167,
+        "line": "CT",
+        "loss": 0,
+        "node": "SDO_ZJCT",
+        "speed": 695,
+        "time": "2025-01-04 16:41:24"
+    },
+    {
+        "colo": "LHR",
+        "ip": "172.67.247.203",
+        "latency": 208,
+        "line": "CT",
+        "loss": 0,
+        "node": "SDO_HBCT",
+        "speed": 625,
+        "time": "2025-01-04 16:40:07"
     },
     {
         "colo": "IAD",
@@ -80,24 +100,14 @@
         "time": "2025-01-04 16:34:43"
     },
     {
-        "colo": "HKG",
-        "ip": "104.22.27.12",
-        "latency": 168,
-        "line": "CT",
+        "colo": "FRA",
+        "ip": "172.67.143.9",
+        "latency": 131,
+        "line": "CU",
         "loss": 0,
-        "node": "QYZJBGP",
-        "speed": 215,
-        "time": "2025-01-04 16:25:59"
-    },
-    {
-        "colo": "LAX",
-        "ip": "104.19.143.230",
-        "latency": 162,
-        "line": "CT",
-        "loss": 0,
-        "node": "QYZJBGP",
-        "speed": 140,
-        "time": "2025-01-04 16:25:43"
+        "node": "KXY_BJCU",
+        "speed": 1490,
+        "time": "2025-01-04 16:40:13"
     },
     {
         "colo": "NRT",
@@ -128,16 +138,6 @@
         "node": "KXY_BJCU",
         "speed": 325,
         "time": "2025-01-04 16:30:19"
-    },
-    {
-        "colo": "HKG",
-        "ip": "172.67.79.49",
-        "latency": 132,
-        "line": "CU",
-        "loss": 0,
-        "node": "EJIACU",
-        "speed": 310,
-        "time": "2025-01-04 16:00:43"
     },
     {
         "colo": "HKG",
