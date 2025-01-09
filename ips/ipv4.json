@@ -1,13 +1,13 @@
 [
     {
         "colo": "Default",
-        "ip": "172.64.69.108",
-        "latency": 213,
+        "ip": "162.159.160.140",
+        "latency": 195,
         "line": "CM",
         "loss": 0,
         "node": "51C_SDCM",
-        "speed": 805,
-        "time": "2025-01-09 03:56:53"
+        "speed": 860,
+        "time": "2025-01-09 05:03:56"
     },
     {
         "colo": "Default",
@@ -21,23 +21,23 @@
     },
     {
         "colo": "Default",
-        "ip": "172.67.225.226",
-        "latency": 213,
+        "ip": "172.67.141.223",
+        "latency": 238,
         "line": "CM",
         "loss": 0,
         "node": "51C_SDCM",
-        "speed": 750,
-        "time": "2025-01-09 04:03:35"
+        "speed": 745,
+        "time": "2025-01-09 05:03:56"
     },
     {
         "colo": "Default",
-        "ip": "172.67.139.63",
-        "latency": 240,
+        "ip": "172.64.107.164",
+        "latency": 204,
         "line": "CM",
         "loss": 0,
         "node": "51C_SDCM",
-        "speed": 495,
-        "time": "2025-01-09 04:15:31"
+        "speed": 295,
+        "time": "2025-01-09 04:51:06"
     },
     {
         "colo": "HKG",
@@ -50,64 +50,54 @@
         "time": "2025-01-09 04:40:37"
     },
     {
-        "colo": "MIA",
-        "ip": "172.64.162.22",
-        "latency": 217,
+        "colo": "ORD",
+        "ip": "172.64.206.7",
+        "latency": 209,
+        "line": "CT",
+        "loss": 0,
+        "node": "SDO_HBCT",
+        "speed": 895,
+        "time": "2025-01-09 05:00:09"
+    },
+    {
+        "colo": "IAD",
+        "ip": "172.67.122.63",
+        "latency": 210,
         "line": "CT",
         "loss": 0,
         "node": "SDO_ZJCT",
-        "speed": 1130,
-        "time": "2025-01-09 04:40:45"
+        "speed": 775,
+        "time": "2025-01-09 05:00:59"
     },
     {
-        "colo": "MIA",
-        "ip": "172.64.138.45",
-        "latency": 218,
+        "colo": "LHR",
+        "ip": "172.67.197.18",
+        "latency": 200,
         "line": "CT",
         "loss": 0,
         "node": "SDO_ZJCT",
-        "speed": 870,
-        "time": "2025-01-09 04:44:09"
+        "speed": 655,
+        "time": "2025-01-09 05:04:27"
     },
     {
-        "colo": "SJC",
-        "ip": "104.17.153.25",
-        "latency": 132,
+        "colo": "LHR",
+        "ip": "172.67.163.40",
+        "latency": 207,
         "line": "CT",
         "loss": 0,
-        "node": "QIXJSCT",
-        "speed": 310,
-        "time": "2025-01-09 04:43:19"
-    },
-    {
-        "colo": "SJC",
-        "ip": "104.18.198.67",
-        "latency": 147,
-        "line": "CT",
-        "loss": 0,
-        "node": "QYZJBGP",
-        "speed": 290,
-        "time": "2025-01-09 04:45:49"
+        "node": "SDO_HBCT",
+        "speed": 640,
+        "time": "2025-01-09 05:00:09"
     },
     {
         "colo": "LAX",
-        "ip": "104.21.232.240",
-        "latency": 145,
+        "ip": "162.159.242.172",
+        "latency": 148,
         "line": "CT",
         "loss": 0,
-        "node": "QYZJBGP",
-        "speed": 290,
-        "time": "2025-01-09 04:45:33"
-    },
-    {
-        "colo": "NRT",
-        "ip": "172.67.3.17",
-        "latency": 56,
-        "line": "CU",
-        "loss": 0,
-        "node": "KXY_BJCU",
-        "speed": 1535,
-        "time": "2025-01-09 03:40:17"
+        "node": "SDO_ZJCT",
+        "speed": 565,
+        "time": "2025-01-09 05:04:28"
     },
     {
         "colo": "FRA",
@@ -121,13 +111,23 @@
     },
     {
         "colo": "NRT",
-        "ip": "172.67.93.159",
-        "latency": 55,
+        "ip": "172.67.76.105",
+        "latency": 56,
         "line": "CU",
         "loss": 0,
         "node": "KXY_BJCU",
         "speed": 720,
-        "time": "2025-01-09 04:20:18"
+        "time": "2025-01-09 05:00:19"
+    },
+    {
+        "colo": "FRA",
+        "ip": "172.64.106.188",
+        "latency": 131,
+        "line": "CU",
+        "loss": 0,
+        "node": "KXY_BJCU",
+        "speed": 625,
+        "time": "2025-01-09 04:50:19"
     },
     {
         "colo": "FRA",
