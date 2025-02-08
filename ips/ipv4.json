@@ -50,54 +50,54 @@
         "time": "2025-02-07 14:31:20"
     },
     {
-        "colo": "IAD",
-        "ip": "104.27.202.240",
-        "latency": 232,
+        "colo": "HKG",
+        "ip": "104.22.26.61",
+        "latency": 244,
         "line": "CT",
         "loss": 0,
         "node": "QIXJSCT",
         "speed": 310,
-        "time": "2025-02-07 15:43:37"
+        "time": "2025-02-07 16:03:37"
+    },
+    {
+        "colo": "LAX",
+        "ip": "104.18.21.247",
+        "latency": 149,
+        "line": "CT",
+        "loss": 0,
+        "node": "QYZJBGP",
+        "speed": 290,
+        "time": "2025-02-07 16:05:27"
+    },
+    {
+        "colo": "LAX",
+        "ip": "104.19.254.182",
+        "latency": 140,
+        "line": "CT",
+        "loss": 0,
+        "node": "QYZJBGP",
+        "speed": 280,
+        "time": "2025-02-07 16:05:07"
     },
     {
         "colo": "IAD",
-        "ip": "104.23.135.186",
-        "latency": 207,
+        "ip": "104.23.132.128",
+        "latency": 197,
         "line": "CT",
         "loss": 0,
-        "node": "QIXJSCT",
-        "speed": 290,
-        "time": "2025-02-07 15:43:31"
+        "node": "QYZJBGP",
+        "speed": 265,
+        "time": "2025-02-07 16:06:00"
     },
     {
         "colo": "LAX",
-        "ip": "104.19.251.72",
-        "latency": 177,
+        "ip": "104.18.112.136",
+        "latency": 155,
         "line": "CT",
         "loss": 0,
         "node": "QYZJBGP",
-        "speed": 290,
-        "time": "2025-02-07 15:45:45"
-    },
-    {
-        "colo": "SJC",
-        "ip": "104.18.63.57",
-        "latency": 171,
-        "line": "CT",
-        "loss": 0,
-        "node": "QYZJBGP",
-        "speed": 260,
-        "time": "2025-02-07 15:45:08"
-    },
-    {
-        "colo": "LAX",
-        "ip": "104.21.233.220",
-        "latency": 176,
-        "line": "CT",
-        "loss": 0,
-        "node": "QYZJBGP",
-        "speed": 225,
-        "time": "2025-02-07 15:45:27"
+        "speed": 230,
+        "time": "2025-02-07 16:05:44"
     },
     {
         "colo": "ARN",
