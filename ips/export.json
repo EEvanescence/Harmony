@@ -61,14 +61,14 @@
             "time": "2025-02-07 21:23:31"
         },
         {
-            "colo": "LAX",
-            "ip": "104.19.255.190",
-            "latency": 187,
+            "colo": "BUF",
+            "ip": "172.64.138.0",
+            "latency": 238,
             "line": "CT",
             "loss": 0,
-            "node": "QIXJSCT",
-            "speed": 310,
-            "time": "2025-02-07 21:23:18"
+            "node": "QYZJBGP",
+            "speed": 275,
+            "time": "2025-02-07 21:25:58"
         },
         {
             "colo": "LHR",
@@ -101,26 +101,6 @@
             "time": "2025-02-07 21:25:07"
         },
         {
-            "colo": "FRA",
-            "ip": "172.67.152.111",
-            "latency": 130,
-            "line": "CU",
-            "loss": 0,
-            "node": "KXY_BJCU",
-            "speed": 1525,
-            "time": "2025-02-07 20:20:46"
-        },
-        {
-            "colo": "ARN",
-            "ip": "172.64.192.67",
-            "latency": 153,
-            "line": "CU",
-            "loss": 0,
-            "node": "KXY_BJCU",
-            "speed": 1070,
-            "time": "2025-02-07 20:00:47"
-        },
-        {
             "colo": "NRT",
             "ip": "172.67.126.176",
             "latency": 208,
@@ -142,6 +122,16 @@
         },
         {
             "colo": "NRT",
+            "ip": "172.67.69.131",
+            "latency": 205,
+            "line": "CU",
+            "loss": 0,
+            "node": "KXY_BJCU",
+            "speed": 720,
+            "time": "2025-02-07 21:30:48"
+        },
+        {
+            "colo": "NRT",
             "ip": "172.67.46.21",
             "latency": 232,
             "line": "CU",
@@ -149,6 +139,16 @@
             "node": "KXY_BJCU",
             "speed": 720,
             "time": "2025-02-07 20:50:48"
+        },
+        {
+            "colo": "FRA",
+            "ip": "172.67.230.197",
+            "latency": 131,
+            "line": "CU",
+            "loss": 0,
+            "node": "KXY_BJCU",
+            "speed": 280,
+            "time": "2025-02-07 21:30:50"
         }
     ],
     "ipv6": [
