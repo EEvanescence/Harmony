@@ -1,6 +1,16 @@
 [
     {
         "colo": "Default",
+        "ip": "190.93.244.159",
+        "latency": 206,
+        "line": "CM",
+        "loss": 0,
+        "node": "51C_SDCM",
+        "speed": 775,
+        "time": "2025-02-10 00:02:51"
+    },
+    {
+        "colo": "Default",
         "ip": "172.67.133.159",
         "latency": 242,
         "line": "CM",
@@ -21,13 +31,13 @@
     },
     {
         "colo": "Default",
-        "ip": "162.159.255.65",
-        "latency": 174,
+        "ip": "172.67.133.188",
+        "latency": 243,
         "line": "CM",
         "loss": 0,
         "node": "51C_SDCM",
-        "speed": 295,
-        "time": "2025-02-09 22:26:05"
+        "speed": 620,
+        "time": "2025-02-09 23:57:35"
     },
     {
         "colo": "LAX",
@@ -40,74 +50,74 @@
         "time": "2025-02-09 22:51:23"
     },
     {
+        "colo": "HKG",
+        "ip": "172.67.24.105",
+        "latency": 182,
+        "line": "CT",
+        "loss": 0,
+        "node": "SDO_ZJCT",
+        "speed": 975,
+        "time": "2025-02-10 00:05:52"
+    },
+    {
+        "colo": "SJC",
+        "ip": "104.19.76.108",
+        "latency": 170,
+        "line": "CT",
+        "loss": 0,
+        "node": "QYZJBGP",
+        "speed": 340,
+        "time": "2025-02-10 00:05:09"
+    },
+    {
         "colo": "LAX",
-        "ip": "172.67.176.95",
-        "latency": 179,
-        "line": "CM",
-        "loss": 0,
-        "node": "CDCM",
-        "speed": 280,
-        "time": "2025-02-09 22:51:17"
-    },
-    {
-        "colo": "SJC",
-        "ip": "104.19.14.54",
-        "latency": 218,
-        "line": "CT",
-        "loss": 0,
-        "node": "QIXJSCT",
-        "speed": 295,
-        "time": "2025-02-09 23:43:36"
-    },
-    {
-        "colo": "SJC",
-        "ip": "104.19.51.143",
-        "latency": 173,
+        "ip": "104.16.113.173",
+        "latency": 200,
         "line": "CT",
         "loss": 0,
         "node": "QYZJBGP",
-        "speed": 290,
-        "time": "2025-02-09 23:45:09"
-    },
-    {
-        "colo": "LHR",
-        "ip": "104.21.42.34",
-        "latency": 236,
-        "line": "CT",
-        "loss": 0,
-        "node": "QIXJSCT",
         "speed": 275,
-        "time": "2025-02-09 23:43:50"
+        "time": "2025-02-10 00:06:01"
     },
     {
-        "colo": "LHR",
-        "ip": "104.21.124.150",
-        "latency": 229,
-        "line": "CT",
-        "loss": 0,
-        "node": "QIXJSCT",
-        "speed": 240,
-        "time": "2025-02-09 23:43:44"
-    },
-    {
-        "colo": "SJC",
-        "ip": "104.19.6.127",
-        "latency": 173,
+        "colo": "HKG",
+        "ip": "104.22.16.64",
+        "latency": 187,
         "line": "CT",
         "loss": 0,
         "node": "QYZJBGP",
-        "speed": 205,
-        "time": "2025-02-09 23:45:31"
+        "speed": 245,
+        "time": "2025-02-10 00:05:45"
+    },
+    {
+        "colo": "LAX",
+        "ip": "104.18.18.186",
+        "latency": 183,
+        "line": "CT",
+        "loss": 0,
+        "node": "QYZJBGP",
+        "speed": 225,
+        "time": "2025-02-10 00:05:29"
     },
     {
         "colo": "FRA",
-        "ip": "172.67.157.254",
-        "latency": 130,
+        "ip": "172.67.158.121",
+        "latency": 131,
         "line": "CU",
         "loss": 0,
         "node": "KXY_BJCU",
         "speed": 1500,
-        "time": "2025-02-09 23:20:48"
+        "time": "2025-02-09 23:50:48"
+    },
+    {
+        "colo": "NRT",
+        "ip": "141.101.121.38",
+        "latency": 209,
+        "line": "CU",
+        "loss": 0,
+        "node": "KXY_BJCU",
+        "speed": 330,
+        "time": "2025-02-10 00:00:52"
     },
     {
         "colo": "NRT",
@@ -128,16 +138,6 @@
         "node": "KXY_BJCU",
         "speed": 310,
         "time": "2025-02-09 23:40:52"
-    },
-    {
-        "colo": "NRT",
-        "ip": "162.159.255.33",
-        "latency": 209,
-        "line": "CU",
-        "loss": 0,
-        "node": "KXY_BJCU",
-        "speed": 305,
-        "time": "2025-02-09 23:30:52"
     },
     {
         "colo": "NRT",
