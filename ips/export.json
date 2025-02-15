@@ -22,6 +22,16 @@
         },
         {
             "colo": "Default",
+            "ip": "172.64.69.34",
+            "latency": 204,
+            "line": "CM",
+            "loss": 0,
+            "node": "51C_SDCM",
+            "speed": 665,
+            "time": "2025-02-15 04:25:24"
+        },
+        {
+            "colo": "Default",
             "ip": "172.67.25.3",
             "latency": 215,
             "line": "CM",
@@ -41,74 +51,64 @@
             "time": "2025-02-15 04:13:38"
         },
         {
-            "colo": "Default",
-            "ip": "162.159.244.73",
-            "latency": 202,
-            "line": "CM",
-            "loss": 0,
-            "node": "51C_SDCM",
-            "speed": 260,
-            "time": "2025-02-15 03:47:01"
-        },
-        {
-            "colo": "SJC",
-            "ip": "198.41.211.181",
-            "latency": 149,
-            "line": "CT",
-            "loss": 0,
-            "node": "SDO_ZJCT",
-            "speed": 1485,
-            "time": "2025-02-15 04:22:15"
-        },
-        {
             "colo": "BUF",
-            "ip": "172.64.206.251",
-            "latency": 232,
+            "ip": "172.64.195.244",
+            "latency": 220,
             "line": "CT",
             "loss": 0,
             "node": "SDO_HBCT",
-            "speed": 1070,
-            "time": "2025-02-15 04:20:26"
-        },
-        {
-            "colo": "BUF",
-            "ip": "172.64.206.167",
-            "latency": 203,
-            "line": "CT",
-            "loss": 0,
-            "node": "SDO_ZJCT",
-            "speed": 935,
-            "time": "2025-02-15 04:22:15"
-        },
-        {
-            "colo": "SJC",
-            "ip": "198.41.208.75",
-            "latency": 142,
-            "line": "CT",
-            "loss": 0,
-            "node": "SDO_HBCT",
-            "speed": 560,
-            "time": "2025-02-15 04:20:27"
+            "speed": 930,
+            "time": "2025-02-15 04:30:27"
         },
         {
             "colo": "IAD",
-            "ip": "172.67.87.123",
-            "latency": 213,
+            "ip": "172.67.0.231",
+            "latency": 210,
+            "line": "CT",
+            "loss": 0,
+            "node": "SDO_ZJCT",
+            "speed": 775,
+            "time": "2025-02-15 04:29:03"
+        },
+        {
+            "colo": "SJC",
+            "ip": "172.64.85.10",
+            "latency": 151,
+            "line": "CT",
+            "loss": 0,
+            "node": "SDO_ZJCT",
+            "speed": 625,
+            "time": "2025-02-15 04:29:04"
+        },
+        {
+            "colo": "LAX",
+            "ip": "162.159.249.184",
+            "latency": 161,
             "line": "CT",
             "loss": 0,
             "node": "SDO_HBCT",
-            "speed": 510,
-            "time": "2025-02-15 04:20:28"
+            "speed": 605,
+            "time": "2025-02-15 04:30:28"
         },
         {
-            "colo": "ARN",
-            "ip": "172.64.138.5",
-            "latency": 153,
+            "colo": "BUF",
+            "ip": "172.64.130.130",
+            "latency": 246,
+            "line": "CT",
+            "loss": 0,
+            "node": "SDO_HBCT",
+            "speed": 295,
+            "time": "2025-02-15 04:30:30"
+        },
+        {
+            "colo": "FRA",
+            "ip": "172.67.243.51",
+            "latency": 130,
             "line": "CU",
             "loss": 0,
             "node": "KXY_BJCU",
-            "speed": 945,
-            "time": "2025-02-15 04:00:54"
+            "speed": 1555,
+            "time": "2025-02-15 04:30:54"
         },
         {
             "colo": "ARN",
@@ -142,13 +142,13 @@
         },
         {
             "colo": "NRT",
-            "ip": "172.67.30.218",
-            "latency": 228,
+            "ip": "172.67.94.125",
+            "latency": 210,
             "line": "CU",
             "loss": 0,
             "node": "KXY_BJCU",
-            "speed": 265,
-            "time": "2025-02-15 04:00:58"
+            "speed": 275,
+            "time": "2025-02-15 04:30:58"
         }
     ],
     "ipv6": [
