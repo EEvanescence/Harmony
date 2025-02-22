@@ -50,54 +50,54 @@
         "time": "2025-02-22 07:20:17"
     },
     {
-        "colo": "IAD",
-        "ip": "172.67.10.8",
-        "latency": 223,
+        "colo": "LHR",
+        "ip": "172.67.212.27",
+        "latency": 233,
         "line": "CT",
         "loss": 0,
-        "node": "SDO_ZJCT",
+        "node": "SDO_HBCT",
         "speed": 775,
-        "time": "2025-02-22 07:21:15"
+        "time": "2025-02-22 07:30:31"
     },
     {
         "colo": "IAD",
-        "ip": "172.67.57.103",
-        "latency": 199,
+        "ip": "172.67.91.219",
+        "latency": 216,
         "line": "CT",
         "loss": 0,
         "node": "SDO_ZJCT",
         "speed": 745,
-        "time": "2025-02-22 07:17:42"
+        "time": "2025-02-22 07:28:11"
+    },
+    {
+        "colo": "IAD",
+        "ip": "172.67.112.83",
+        "latency": 199,
+        "line": "CT",
+        "loss": 0,
+        "node": "SDO_HBCT",
+        "speed": 695,
+        "time": "2025-02-22 07:30:31"
+    },
+    {
+        "colo": "IAD",
+        "ip": "172.67.0.232",
+        "latency": 228,
+        "line": "CT",
+        "loss": 0,
+        "node": "SDO_HBCT",
+        "speed": 660,
+        "time": "2025-02-22 07:30:31"
     },
     {
         "colo": "SJC",
-        "ip": "162.159.130.161",
-        "latency": 180,
+        "ip": "104.17.93.104",
+        "latency": 130,
         "line": "CT",
         "loss": 0,
-        "node": "SDO_HBCT",
-        "speed": 680,
-        "time": "2025-02-22 07:20:31"
-    },
-    {
-        "colo": "LHR",
-        "ip": "172.67.139.162",
-        "latency": 207,
-        "line": "CT",
-        "loss": 0,
-        "node": "SDO_HBCT",
-        "speed": 665,
-        "time": "2025-02-22 07:20:31"
-    },
-    {
-        "colo": "Default",
-        "ip": "162.159.195.115",
-        "latency": 163,
-        "line": "CT",
-        "loss": 0,
-        "node": "SDO_HBCT",
-        "speed": 575,
-        "time": "2025-02-22 07:20:34"
+        "node": "QYZJBGP",
+        "speed": 295,
+        "time": "2025-02-22 07:26:13"
     },
     {
         "colo": "FRA",
