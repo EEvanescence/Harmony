@@ -51,6 +51,16 @@
             "time": "2025-02-23 14:46:17"
         },
         {
+            "colo": "LHR",
+            "ip": "172.67.166.210",
+            "latency": 200,
+            "line": "CT",
+            "loss": 0,
+            "node": "SDO_ZJCT",
+            "speed": 945,
+            "time": "2025-02-23 15:29:15"
+        },
+        {
             "colo": "LAX",
             "ip": "162.159.252.102",
             "latency": 157,
@@ -61,44 +71,34 @@
             "time": "2025-02-23 15:23:37"
         },
         {
-            "colo": "SJC",
-            "ip": "104.17.145.130",
-            "latency": 151,
-            "line": "CT",
-            "loss": 0,
-            "node": "QIXJSCT",
-            "speed": 310,
-            "time": "2025-02-23 15:23:31"
-        },
-        {
-            "colo": "LAX",
-            "ip": "104.16.115.121",
-            "latency": 184,
+            "colo": "LHR",
+            "ip": "104.21.38.32",
+            "latency": 190,
             "line": "CT",
             "loss": 0,
             "node": "QYZJBGP",
             "speed": 290,
-            "time": "2025-02-23 15:15:54"
+            "time": "2025-02-23 15:25:30"
         },
         {
-            "colo": "SJC",
-            "ip": "104.19.52.40",
-            "latency": 148,
-            "line": "CT",
-            "loss": 0,
-            "node": "QIXJSCT",
-            "speed": 260,
-            "time": "2025-02-23 15:23:25"
-        },
-        {
-            "colo": "LAX",
-            "ip": "104.16.114.13",
-            "latency": 184,
+            "colo": "LHR",
+            "ip": "104.21.10.147",
+            "latency": 233,
             "line": "CT",
             "loss": 0,
             "node": "QYZJBGP",
-            "speed": 260,
-            "time": "2025-02-23 15:16:15"
+            "speed": 245,
+            "time": "2025-02-23 15:26:13"
+        },
+        {
+            "colo": "IAD",
+            "ip": "104.20.101.218",
+            "latency": 218,
+            "line": "CT",
+            "loss": 0,
+            "node": "QYZJBGP",
+            "speed": 155,
+            "time": "2025-02-23 15:25:52"
         },
         {
             "colo": "FRA",
