@@ -50,54 +50,54 @@
         "time": "2025-03-14 03:22:38"
     },
     {
-        "colo": "IAD",
-        "ip": "172.67.107.244",
-        "latency": 227,
+        "colo": "EWR",
+        "ip": "172.67.107.38",
+        "latency": 207,
         "line": "CT",
         "loss": 0,
-        "node": "SDO_HBCT",
-        "speed": 725,
-        "time": "2025-03-14 03:20:40"
-    },
-    {
-        "colo": "IAD",
-        "ip": "172.67.21.12",
-        "latency": 229,
-        "line": "CT",
-        "loss": 0,
-        "node": "SDO_HBCT",
-        "speed": 675,
-        "time": "2025-03-14 03:20:40"
+        "node": "SDO_ZJCT",
+        "speed": 1190,
+        "time": "2025-03-14 03:27:01"
     },
     {
         "colo": "SJC",
-        "ip": "172.64.80.126",
-        "latency": 158,
+        "ip": "162.159.134.97",
+        "latency": 148,
         "line": "CT",
         "loss": 0,
         "node": "SDO_ZJCT",
-        "speed": 575,
-        "time": "2025-03-14 03:20:09"
+        "speed": 945,
+        "time": "2025-03-14 03:30:35"
     },
     {
-        "colo": "Default",
-        "ip": "172.67.212.165",
-        "latency": 220,
-        "line": "CT",
-        "loss": 0,
-        "node": "SDO_ZJCT",
-        "speed": 320,
-        "time": "2025-03-14 03:16:40"
-    },
-    {
-        "colo": "AMS",
-        "ip": "172.67.194.179",
-        "latency": 221,
+        "colo": "IAD",
+        "ip": "172.67.44.185",
+        "latency": 206,
         "line": "CT",
         "loss": 0,
         "node": "SDO_HBCT",
+        "speed": 645,
+        "time": "2025-03-14 03:30:40"
+    },
+    {
+        "colo": "SJC",
+        "ip": "190.93.247.29",
+        "latency": 173,
+        "line": "CT",
+        "loss": 0,
+        "node": "SDO_HBCT",
+        "speed": 605,
+        "time": "2025-03-14 03:30:41"
+    },
+    {
+        "colo": "LAX",
+        "ip": "104.19.142.90",
+        "latency": 152,
+        "line": "CT",
+        "loss": 0,
+        "node": "QIXJSCT",
         "speed": 260,
-        "time": "2025-03-14 03:20:43"
+        "time": "2025-03-14 03:23:39"
     },
     {
         "colo": "FRA",
