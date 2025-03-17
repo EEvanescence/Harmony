@@ -1,13 +1,23 @@
 [
     {
         "colo": "Default",
-        "ip": "172.67.247.211",
-        "latency": 234,
+        "ip": "172.67.121.67",
+        "latency": 212,
         "line": "CM",
         "loss": 0,
         "node": "51C_SDCM",
-        "speed": 660,
-        "time": "2025-03-16 19:15:26"
+        "speed": 705,
+        "time": "2025-03-16 19:29:19"
+    },
+    {
+        "colo": "Default",
+        "ip": "172.67.54.122",
+        "latency": 212,
+        "line": "CM",
+        "loss": 0,
+        "node": "51C_SDCM",
+        "speed": 510,
+        "time": "2025-03-16 19:29:20"
     },
     {
         "colo": "Default",
@@ -18,16 +28,6 @@
         "node": "51C_SDCM",
         "speed": 295,
         "time": "2025-03-16 19:15:28"
-    },
-    {
-        "colo": "LAX",
-        "ip": "162.159.246.100",
-        "latency": 63,
-        "line": "CM",
-        "loss": 0,
-        "node": "CDCM",
-        "speed": 285,
-        "time": "2025-03-16 19:12:03"
     },
     {
         "colo": "NRT",
@@ -50,44 +50,44 @@
         "time": "2025-03-16 19:22:53"
     },
     {
-        "colo": "Default",
-        "ip": "172.67.217.85",
-        "latency": 154,
+        "colo": "AMS",
+        "ip": "172.67.198.54",
+        "latency": 227,
         "line": "CT",
         "loss": 0,
         "node": "SDO_ZJCT",
-        "speed": 1520,
-        "time": "2025-03-16 19:10:36"
+        "speed": 1240,
+        "time": "2025-03-16 19:24:07"
     },
     {
         "colo": "AMS",
-        "ip": "172.67.212.200",
-        "latency": 200,
+        "ip": "172.67.202.198",
+        "latency": 203,
         "line": "CT",
         "loss": 0,
         "node": "SDO_HBCT",
-        "speed": 1125,
-        "time": "2025-03-16 19:10:44"
+        "speed": 750,
+        "time": "2025-03-16 19:30:44"
     },
     {
-        "colo": "AMS",
-        "ip": "172.67.241.242",
-        "latency": 195,
+        "colo": "IAD",
+        "ip": "172.67.58.96",
+        "latency": 225,
         "line": "CT",
         "loss": 0,
         "node": "SDO_ZJCT",
-        "speed": 755,
-        "time": "2025-03-16 19:17:24"
+        "speed": 640,
+        "time": "2025-03-16 19:27:37"
     },
     {
         "colo": "AMS",
-        "ip": "172.67.201.27",
-        "latency": 220,
+        "ip": "172.67.229.244",
+        "latency": 172,
         "line": "CT",
         "loss": 0,
         "node": "SDO_HBCT",
-        "speed": 345,
-        "time": "2025-03-16 19:10:48"
+        "speed": 605,
+        "time": "2025-03-16 19:30:44"
     },
     {
         "colo": "SJC",
