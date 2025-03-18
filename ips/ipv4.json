@@ -11,6 +11,16 @@
     },
     {
         "colo": "Default",
+        "ip": "172.67.150.207",
+        "latency": 180,
+        "line": "CM",
+        "loss": 0,
+        "node": "51C_SDCM",
+        "speed": 800,
+        "time": "2025-03-18 02:43:56"
+    },
+    {
+        "colo": "Default",
         "ip": "172.67.25.223",
         "latency": 205,
         "line": "CM",
@@ -41,63 +51,53 @@
     },
     {
         "colo": "Default",
-        "ip": "172.67.57.108",
-        "latency": 206,
-        "line": "CM",
-        "loss": 0,
-        "node": "51C_SDCM",
-        "speed": 260,
-        "time": "2025-03-18 02:23:00"
-    },
-    {
-        "colo": "AMS",
-        "ip": "172.67.138.245",
-        "latency": 188,
+        "ip": "172.67.231.209",
+        "latency": 189,
         "line": "CT",
         "loss": 0,
         "node": "SDO_ZJCT",
-        "speed": 835,
-        "time": "2025-03-18 02:31:14"
+        "speed": 1535,
+        "time": "2025-03-18 02:49:13"
+    },
+    {
+        "colo": "SJC",
+        "ip": "198.41.223.49",
+        "latency": 148,
+        "line": "CT",
+        "loss": 0,
+        "node": "SDO_ZJCT",
+        "speed": 945,
+        "time": "2025-03-18 02:45:40"
     },
     {
         "colo": "IAD",
-        "ip": "172.67.108.227",
-        "latency": 215,
+        "ip": "172.67.46.216",
+        "latency": 229,
         "line": "CT",
         "loss": 0,
         "node": "SDO_HBCT",
-        "speed": 635,
-        "time": "2025-03-18 02:30:42"
-    },
-    {
-        "colo": "AMS",
-        "ip": "172.67.158.0",
-        "latency": 236,
-        "line": "CT",
-        "loss": 0,
-        "node": "SDO_HBCT",
-        "speed": 620,
-        "time": "2025-03-18 02:30:43"
-    },
-    {
-        "colo": "AMS",
-        "ip": "172.67.188.126",
-        "latency": 188,
-        "line": "CT",
-        "loss": 0,
-        "node": "SDO_ZJCT",
-        "speed": 310,
-        "time": "2025-03-18 02:35:03"
+        "speed": 805,
+        "time": "2025-03-18 02:50:42"
     },
     {
         "colo": "IAD",
-        "ip": "172.67.16.100",
-        "latency": 196,
+        "ip": "172.67.1.132",
+        "latency": 214,
         "line": "CT",
         "loss": 0,
-        "node": "SDO_ZJCT",
-        "speed": 310,
-        "time": "2025-03-18 02:35:03"
+        "node": "SDO_HBCT",
+        "speed": 640,
+        "time": "2025-03-18 02:50:42"
+    },
+    {
+        "colo": "LAX",
+        "ip": "162.159.241.110",
+        "latency": 151,
+        "line": "CT",
+        "loss": 0,
+        "node": "SDO_HBCT",
+        "speed": 570,
+        "time": "2025-03-18 02:50:42"
     },
     {
         "colo": "FRA",
