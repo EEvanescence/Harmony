@@ -21,13 +21,13 @@
     },
     {
         "colo": "Default",
-        "ip": "172.67.22.200",
-        "latency": 279,
+        "ip": "172.67.198.211",
+        "latency": 221,
         "line": "CM",
         "loss": 0,
         "node": "51C_SDCM",
-        "speed": 945,
-        "time": "2025-03-19 18:47:34"
+        "speed": 835,
+        "time": "2025-03-19 19:28:10"
     },
     {
         "colo": "Default",
@@ -50,34 +50,34 @@
         "time": "2025-03-19 19:01:34"
     },
     {
-        "colo": "IAD",
-        "ip": "172.67.79.111",
-        "latency": 213,
-        "line": "CT",
-        "loss": 0,
-        "node": "SDO_HBCT",
-        "speed": 835,
-        "time": "2025-03-19 19:20:43"
-    },
-    {
-        "colo": "IAD",
-        "ip": "172.67.61.230",
-        "latency": 220,
-        "line": "CT",
-        "loss": 0,
-        "node": "SDO_HBCT",
-        "speed": 805,
-        "time": "2025-03-19 19:20:43"
-    },
-    {
         "colo": "AMS",
-        "ip": "172.67.250.254",
-        "latency": 227,
+        "ip": "172.67.235.78",
+        "latency": 190,
         "line": "CT",
         "loss": 0,
         "node": "SDO_ZJCT",
-        "speed": 345,
-        "time": "2025-03-19 19:18:32"
+        "speed": 1120,
+        "time": "2025-03-19 19:29:00"
+    },
+    {
+        "colo": "AMS",
+        "ip": "172.67.194.23",
+        "latency": 203,
+        "line": "CT",
+        "loss": 0,
+        "node": "SDO_ZJCT",
+        "speed": 750,
+        "time": "2025-03-19 19:29:00"
+    },
+    {
+        "colo": "IAD",
+        "ip": "172.67.52.196",
+        "latency": 229,
+        "line": "CT",
+        "loss": 0,
+        "node": "SDO_HBCT",
+        "speed": 535,
+        "time": "2025-03-19 19:30:44"
     },
     {
         "colo": "SJC",
@@ -90,14 +90,14 @@
         "time": "2025-03-19 19:23:41"
     },
     {
-        "colo": "SJC",
-        "ip": "190.93.245.199",
-        "latency": 277,
+        "colo": "IAD",
+        "ip": "172.67.110.44",
+        "latency": 201,
         "line": "CT",
         "loss": 0,
         "node": "SDO_ZJCT",
-        "speed": 290,
-        "time": "2025-03-19 19:22:02"
+        "speed": 260,
+        "time": "2025-03-19 19:25:41"
     },
     {
         "colo": "FRA",
