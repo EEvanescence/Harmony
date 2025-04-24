@@ -50,54 +50,54 @@
         "time": "2025-04-24 00:50:05"
     },
     {
-        "colo": "FRA",
-        "ip": "172.67.50.38",
-        "latency": 165,
+        "colo": "AMS",
+        "ip": "172.67.210.79",
+        "latency": 163,
         "line": "CT",
         "loss": 0,
         "node": "SDO_ZJCT",
-        "speed": 1595,
-        "time": "2025-04-24 01:26:02"
+        "speed": 1535,
+        "time": "2025-04-24 01:36:10"
+    },
+    {
+        "colo": "AMS",
+        "ip": "172.67.255.147",
+        "latency": 182,
+        "line": "CT",
+        "loss": 0,
+        "node": "SDO_ZJCT",
+        "speed": 645,
+        "time": "2025-04-24 01:36:11"
+    },
+    {
+        "colo": "FRA",
+        "ip": "104.20.196.190",
+        "latency": 156,
+        "line": "CT",
+        "loss": 0,
+        "node": "QIXJSCT",
+        "speed": 310,
+        "time": "2025-04-24 01:33:40"
     },
     {
         "colo": "LAX",
-        "ip": "104.19.127.239",
-        "latency": 162,
-        "line": "CT",
-        "loss": 0,
-        "node": "QYZJBGP",
-        "speed": 340,
-        "time": "2025-04-24 01:25:27"
-    },
-    {
-        "colo": "FRA",
-        "ip": "104.22.7.147",
-        "latency": 165,
+        "ip": "162.159.246.240",
+        "latency": 156,
         "line": "CT",
         "loss": 0,
         "node": "QYZJBGP",
         "speed": 290,
-        "time": "2025-04-24 01:25:45"
+        "time": "2025-04-24 01:36:13"
     },
     {
         "colo": "FRA",
-        "ip": "104.27.98.188",
-        "latency": 149,
+        "ip": "104.24.29.233",
+        "latency": 150,
         "line": "CT",
         "loss": 0,
         "node": "QYZJBGP",
-        "speed": 290,
-        "time": "2025-04-24 01:25:08"
-    },
-    {
-        "colo": "FRA",
-        "ip": "104.23.110.192",
-        "latency": 168,
-        "line": "CT",
-        "loss": 0,
-        "node": "QYZJBGP",
-        "speed": 230,
-        "time": "2025-04-24 01:26:05"
+        "speed": 285,
+        "time": "2025-04-24 01:35:54"
     },
     {
         "colo": "FRA",
